@@ -1,0 +1,48 @@
+---
+title: "Turismo Reseptivo Uruguay 2015"
+author: "Victoria Silveira"
+output:
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Objetivos
+
+Analizar los datos sobre el Turismo Receptivo de Uruguay en el año 2015, y asi obtener informacion como por ejemplo:
+
+-	¿De entre los visitantes que ingresan al Uruguay, cuáles son  las nacionalidades predominantes?
+-	¿Por qué motivos ingresan al país?
+-	¿Cuáles son las principales zonas de interés de estos visitantes?
+-	¿Cuál es el promedio de días que permanecen en el país los turistas?
+-	¿En qué tipo de alojamientos se hospedan con mayor frecuencia?
+- ¿Como se comporta el Gasto con respecto al la nacionalidad, destino turistico y Alojamiento?
+
+## Datos
+
+Obtenidos del Ministerio de Turismo
+Variables de interes: 
+
+- Destino
+- Nacionalidad
+- Gasto total
+- Gasto Per/capita
+- Gasto Per/capita por dia
+- Alojamiento
+- Dias
+- Motivo de viaje
+- Transporte
+
+## Principales Concluciones
+
+- Destino mas visitado Montevideo
+- Alojamiento mas usado Hotel
+- Los turistas se hospedan mas tiempo en Rocha
+- En lo que mas gastan Compran
+- Los que mas gastan Asiaticos
+
+## Fin
+
